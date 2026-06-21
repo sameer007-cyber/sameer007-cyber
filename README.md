@@ -1,6 +1,47 @@
 # 💫 About Me:
 Sameer Dharmadhikari<br>Full Stack Developer | Agentic AI Explorer | SWE Intern @ Tech Mahindra
+💼 Software Engineering Intern @ Tech Mahindra
 
+🤖 Exploring Agentic AI, RAG Systems, LangGraph, and LLM Applications
+
+📚 Solved 300+ Data Structures & Algorithms problems
+
+🎯 Interested in Software Engineering, Distributed Systems, and System Design
+
+🎓 B.E. Electronics & Telecommunication Engineering @ PICT (CGPA: 9.01)
+
+🌐 Socials:
+
+
+
+
+
+🚀 Featured Projects:
+🤖 AI Interview Preparation Agent
+
+Built using FastAPI, LangGraph, LangChain, ChromaDB, and Next.js with RAG-based retrieval and personalized interview feedback.
+
+💰 FinTrack
+
+AI-powered expense management platform using MERN Stack and Gemini API.
+
+☁️ Droply
+
+Secure cloud storage platform built with Next.js, PostgreSQL, Clerk, and Docker.
+
+📧 BotZilla
+
+AI-powered Email Automation Agent built using Node.js, React, LangChain, and Ollama.
+
+🏆 Achievements:
+
+🥈 Runner-Up — COEP MindSpark Tata Motors Hackathon
+
+💼 Software Engineering Intern @ Tech Mahindra
+
+📚 300+ DSA Problems Solved
+
+🎯 MHT-CET 98.62 Percentile
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-dharmadhikari-132566379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameerdharmadhikari21@gmail.com) 

@@ -60,5 +60,13 @@ AI-powered Email Automation Agent built using Node.js, React, LangChain, and Oll
 ![](https://github-readme-stats.shion.dev/api?username=sameer007-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sameer007-cyber&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sameer007-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📈 GitHub Summary
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer007-cyber&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer007-cyber&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer007-cyber&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer007-cyber&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer007-cyber&theme=tokyonight&utcOffset=5.5)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -67,6 +67,5 @@ AI-powered Email Automation Agent built using Node.js, React, LangChain, and Oll
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sameer007-cyber&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sameer007-cyber&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameer007-cyber&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sameer007-cyber&theme=tokyonight&utcOffset=5.5)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

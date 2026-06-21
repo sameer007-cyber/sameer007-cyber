@@ -12,7 +12,15 @@ Sameer Dharmadhikari<br>Full Stack Developer | Agentic AI Explorer | SWE Intern 
 
 🌐 Socials:
 
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer_Dharmadhikari-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sameer-dharmadhikari-132566379)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-300+_Problems-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sameerdharmadhikari/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel)](https://portfolio-seven-zeta-lqbz9q0e2w.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sameerdharmadhikari21@gmail.com)
 
 
 
